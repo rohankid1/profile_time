@@ -3,7 +3,7 @@ This crates provides 2 macros to help you separate debug and release code.
 
 # Usage
 
-```rs
+```rust
 #[macro_use]
 extern crate profile_time;
 
