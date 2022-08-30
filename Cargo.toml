@@ -5,7 +5,7 @@ edition = "2021"
 description = "Provides 2 simple macros to separate debug code and release code"
 keywords = ["profile", "release", "debug"]
 authors = ["Rohan"]
-license = "MITs"
+license = "MIT"
 repository = "https://github.com/rohankid1/profile_time"
 homepage = "https://github.com/rohankid1/profile_time"
 
