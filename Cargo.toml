@@ -1,0 +1,10 @@
+[package]
+name = "profile_time"
+version = "0.1.0"
+edition = "2021"
+description = "Provides 2 simple macros to separate debug code and release code"
+keywords = ["profile", "release", "debug"]
+authors = ["Rohan"]
+license = "MITs"
+
+[dependencies]
