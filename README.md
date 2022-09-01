@@ -1,5 +1,5 @@
 # profile_time
-This crates provides 2 macros to help you separate debug and release code.
+This crate provides 2 macros to help you separate debug and release code.
 
 # Usage
 
