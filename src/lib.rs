@@ -1,5 +1,5 @@
 //! # profile_time
-//! This lightweight and simples crate provides 2 macros
+//! This lightweight and simple crate provides 2 macros
 //! to help you separate debug and release code.
 //! This crate provides:
 //! * [`debug_time!`]
